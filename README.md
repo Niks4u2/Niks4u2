@@ -36,6 +36,6 @@ Niks4u2/Niks4u2 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[twitter]: https://www.linkedin.com/in/nikhil-jain-py/
-[linkedin]:  www.linkedin.com/in/nikhil-jain-py
+[twitter]: https://twitter.com/Nikhil4uJain
+[linkedin]: https://www.linkedin.com/in/nikhil-jain-py/
 [instagram]: https://www.instagram.com/nikkuu_u/
