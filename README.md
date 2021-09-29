@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [twitter]: https://www.linkedin.com/in/nikhil-jain-py/
-[linkedin]: https://twitter.com/Nikhil4uJain/
+[linkedin]:  www.linkedin.com/in/nikhil-jain-py
 [instagram]: https://www.instagram.com/nikkuu_u/
